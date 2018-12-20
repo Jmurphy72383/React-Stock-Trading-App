@@ -1,0 +1,7 @@
+.line_chart {
+    width: 50%;
+    height: 25%;
+    border: 5px solid black;
+    border-radius: 25px;
+    padding: 20px;
+}
